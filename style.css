@@ -75,12 +75,13 @@ ul {
 #profile {
     margin: 5px 5px;
     height: 200px;
-    background: url(../img/minieu.icon.png) no-repeat;
+    background: url('/pagina-portfolio3/img/minieu.icon.png') no-repeat;
     background-color: var(--cor-principal);
     background-size: cover;
     border-radius: 20px;
     border: 2px solid var(--cor-borda);
 }
+
 
 #lateral h1 {
     font-size: 15px;
