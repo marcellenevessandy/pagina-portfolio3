@@ -50,7 +50,7 @@ ul {
 #navbar ul a {
     font-size: 1.03em;
     display: block;
-    padding: 0.2em 2em;
+    padding: 0.2em 4em;
     line-height: 2.1em;
     text-decoration: none;
     color: var(--cor-borda);
